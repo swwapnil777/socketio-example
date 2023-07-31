@@ -1,0 +1,44 @@
+/* styles.css */
+
+/* Reset default margins and paddings */
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  ul {
+    padding: 20px;
+  }
+  
+  /* Style list items */
+  li {
+    margin-bottom: 10px;
+  }
+  
